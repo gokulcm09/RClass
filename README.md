@@ -2,7 +2,7 @@
 <img src='static/images/demo2.png' align="center">
 </p>
 <h1 align="center">
-  <b>PROJECT JOCUND !!</b>
+  <b>PROJECT R Class !!</b>
 </h1>
 
 <p align="center">
@@ -10,13 +10,11 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/SHAINOSAJIMON/JOCUND/" target="_blank">
     <img src="https://img.shields.io/badge/version-v1.1.0-blue?style=for-the-badge&logo=none" alt="Project_CONNECT version" />
 </a>&nbsp;
 <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/PYTHON-3.6+-00ADD8?style=for-the-badge&logo=python" alt="python version" />
 </a>&nbsp;
-<a href="https://github.com/SHAINOSAJIMON/JOCUND/" target="_blank">
     <img src="https://img.shields.io/badge/Project Type-Computer Vision-success?style=for-the-badge&logo=none" alt="project type" />
 </a>&nbsp;
 <img src="https://img.shields.io/badge/license-GNU v3.0-red?style=for-the-badge&logo=none" alt="license" />
@@ -79,15 +77,6 @@ python manage.py runserver
 
 ## ⭐️ Project assistance
 
-If you want to say **thank you** or/and support active development of `JOCUND`:
-
-- Add a [GitHub Star](https://github.com/SHAINOSAJIMON/JOCUND/) to the project.
-- Write interesting articles about project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or personal blog.
-
-Together, we can make this project **better** every day! 😘
-
-<br>
-
 ### 🛠️ Built With
 
 - [Python 3.8](https://www.python.org/) - Creating Project
@@ -110,4 +99,4 @@ I value keeping my work open source, but as you all know, _**plagiarism is bad**
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [SHAINOSAJIMON/JOCUND](https://github.com/SHAINOSAJIMON/JOCUND/). Thanks!
+Yes, you can fork this repo. Please give me proper credit). Thanks!
