@@ -50,7 +50,9 @@ INSTALLED_APPS = [
     'video',
     'calc',
     'speech',
-    'employment'
+    'employment',
+    'grants',
+    'research'
 
 ]
 

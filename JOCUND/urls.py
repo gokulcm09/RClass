@@ -28,6 +28,8 @@ from video.views import video_view
 from calc.views import calc_view
 from speech.views import speech_view
 from employment.views import employment_view
+from grants.views import grants_view
+from research.views import research_view
 
 urlpatterns = [
     path('admin/', admin.site.urls),
@@ -46,5 +48,7 @@ urlpatterns = [
     path('video/', video_view, name='video'),
     path('calc/', calc_view, name='calc'),
     path('speech/', speech_view, name='speech'),
-    path('employment/', employment_view, name='employment')
+    path('employment/', employment_view, name='employment'),
+    path('grants/', grants_view, name='grants'),
+    path('research/', research_view, name='research')
 ]
